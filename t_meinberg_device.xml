@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <zabbix_export>
     <version>4.0</version>
-    <date>2019-08-07T14:00:42Z</date>
+    <date>2019-08-07T14:22:20Z</date>
     <groups>
         <group>
             <name>t_templates</name>
@@ -212,7 +212,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -271,7 +271,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -330,7 +330,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -389,7 +389,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -448,7 +448,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -507,7 +507,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -566,7 +566,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -625,7 +625,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -684,7 +684,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -743,7 +743,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -802,7 +802,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
@@ -861,7 +861,7 @@
                     <history>5d</history>
                     <trends>0</trends>
                     <status>0</status>
-                    <value_type>1</value_type>
+                    <value_type>2</value_type>
                     <allowed_hosts/>
                     <units/>
                     <snmpv3_contextname/>
