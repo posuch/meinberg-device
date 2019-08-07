@@ -4,12 +4,12 @@ snmp trap monitoring and ping monitoring of the device ( liveness check, ping lo
 
 snmp traps monitred:
 
-FanDown
-NetworkDown
-NTPNotSync
-NTPStopped
-PowerSupplyFailure
-SHSTimeLimitError
+FanDown \
+NetworkDown \
+NTPNotSync \
+NTPStopped \
+PowerSupplyFailure \
+SHSTimeLimitError \
 
 
 
